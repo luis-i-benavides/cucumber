@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: luis.i.benavides
+Build-Jdk: 12.0.1
+Implementation-Title: cucumber
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/cucumber/
+Created-By: Maven Integration for Eclipse
+
